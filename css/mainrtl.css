@@ -1,0 +1,12 @@
+.navbar{
+    text-align:start; 
+    
+}
+.navbar .logo{
+    margin-left: 20px;
+    margin-right: 0;
+}
+.dropdown{
+    right: -5%;
+}
+
