@@ -103,6 +103,13 @@
 
 /*******************End of navbar*******************/
 /*******************Start of slides*******************/
+.logoo{
+    width: 130px;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    z-index: 1;
+}
 .carousel-inner .item img{
     width: 100%;
     height: 550px;
@@ -117,10 +124,16 @@
 #services{
    padding: 30px 0;
 }
+#services .card p{
+    font-size: 18px;
+}
 #services .card{
    align-content: center;
     align-items: center;
     padding: 35px;
+}
+#services .card a{
+    font-size: 20px;
 }
 #services .card .ser{
 
