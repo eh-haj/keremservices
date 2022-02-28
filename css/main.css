@@ -669,10 +669,7 @@ iframe{
 }
 @media (max-width: 767px){
 	.logo{
-        visibility: hidden;
-        width: 0;
-        padding: 0;
-        margin: 0;
+        display: none;
     }
 	.logoo{
     width: 100px;
