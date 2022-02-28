@@ -685,6 +685,7 @@ iframe{
         margin: 5px 35%;
     }
     .row {
+	text-align: center;
      margin-right: 0px;
      margin-left: 0px;
         }
