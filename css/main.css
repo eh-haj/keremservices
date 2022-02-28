@@ -668,6 +668,12 @@ iframe{
     }
 }
 @media (max-width: 767px){
+	.logoo{
+    width: 100px;
+    position: absolute;
+    top: 5%;
+    left: 75%;
+     }
     .navbar .menu {
         text-align:left;
         padding: 0;
