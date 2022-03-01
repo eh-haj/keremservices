@@ -678,6 +678,7 @@ iframe{
     left: 75%;
      }
     .navbar .menu {
+	    display: none;
         text-align:left;
         padding: 0;
     }
