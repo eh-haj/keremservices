@@ -668,15 +668,18 @@ iframe{
     }
 }
 @media (max-width: 767px){
-	.logo{
+	.logoo{
         display: none;
     }
-	.logoo{
+    .logo{
+        left: 70%;
+    }
+    /*.logoo{
     width: 100px;
     position: absolute;
     top: 5%;
     left: 75%;
-     }
+     }*/
     .navbar .menu {
 	    display: none;
         text-align:left;
